@@ -1,0 +1,22 @@
+VoteNexus/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│
+├── assets/
+│   ├── images/
+│   └── icons/
+│
+├── pages/
+│   ├── about.html
+│   ├── contestants.html
+│   ├── vote.html
+│   └── results.html
+│
+└── admin/
+    ├── login.html
+    ├── dashboard.html
+    ├── add-contestant.html
+    ├── edit-contestant.html
+    └── manage-votes.html
